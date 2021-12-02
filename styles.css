@@ -16,5 +16,8 @@ ul {color: darkgrey;
     line-height: 20px;
     font-style: oblique;}
 image {text-align: center;
-       }
-a {text-align: center;}
+       border: lawngreen;}
+a {text-align: center;
+  }
+body {background-color: rgba(105, 90, 205, 0.849);
+     }
