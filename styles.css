@@ -9,15 +9,17 @@ p {color: rgba(0, 0, 0, 0.884);
    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-style: inherit;
-    line-height: 40px;
+    line-height: 20px;
    }
 ul {color: darkgrey;
     text-align: center;
     line-height: 20px;
     font-style: oblique;}
 image {text-align: center;
-       border: lawngreen;}
+       border: lawngreen;
+       float: left;}
 a {text-align: center;
-  }
-body {background-color: rgba(105, 90, 205, 0.849);
+   font-style: italic;}
+
+body {background-color: rgba(105, 90, 205, 0.849;
      }
